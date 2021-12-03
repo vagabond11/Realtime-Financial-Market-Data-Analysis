@@ -1,9 +1,9 @@
-# Realtime Financial Market Data Visualization and Analysis
+# Realtime Financial Market Data Analysis
 
 
 # Introduction
 
-In this project, I developed a financial data processing and visualization platform using ***Apache Kafka***, ***Apache Cassandra***, and ***Bokeh***. I used Kafka for realtime stock price and market news streaming, Cassandra for historical and realtime stock data warehousing, and Bokeh for visualization on web browsers. I also wrote a web crawler to scrape companys' financial statements and basic information from Yahoo Finance, and played with various economy data APIs. 
+In this project, I developed a financial data processing pipeline and visualization platform using ***Apache Kafka***, ***Apache Cassandra***, and ***Bokeh***. I used Kafka for realtime stock price and market news streaming, Cassandra for historical and realtime stock data warehousing, and Bokeh for visualization on web browsers. I also wrote a web crawler to scrape companys' financial statements and basic information from Yahoo Finance, like news articles and so on, and played with various economy data APIs. 
 
 
 
@@ -27,21 +27,21 @@ There are currently 3 tabs in the webpage:
 
 Here is the architecture of the platform. Note: the link in the image below is ***no longer available***.
 
-<img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/kafka_stock.png" width="900" />
+<img src="https://github.com/vagabond11/Realtime-Financial-Market-Data-Analysis/blob/main/images/kafka_stock.png" width="900" />
 
-Please check each tab's screenshot:
+you can see below a screeshot of each tab:
 
 
 **Tab 1:**
 
-<img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/tab1.gif" width="800" />
+<img src="https://github.com/vagabond11/Realtime-Financial-Market-Data-Analysis/blob/main/images/tab1.gif" width="800" />
 
 
 **Tab 2:**
 
-<img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/tab2.gif" width="800" />
+<img src="https://github.com/vagabond11/Realtime-Financial-Market-Data-Analysis/blob/main/images/github.com/nancyyanyu/kafka_stock/blob/master/images/tab2.gif" width="800" />
 
 
 **Tab 3:**
 
-<img src="https://github.com/nancyyanyu/kafka_stock/blob/master/images/tab3.gif" width="800" />
+<img src="https://github.com/vagabond11/Realtime-Financial-Market-Data-Analysis/blob/main/images/tab3.gif" width="800" />
